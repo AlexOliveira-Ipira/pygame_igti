@@ -1,5 +1,5 @@
 backgoud_imagens_file = 'Imagens/Back.jpeg'
-mouse_imagens_file = 'Imagens/Bola.jpeg'
+mouse_imagens_file = 'Imagens/Cursor.jpeg'
 
 import pygame
 from pygame.locals import *
