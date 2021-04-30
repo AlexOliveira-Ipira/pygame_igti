@@ -13,6 +13,7 @@ Primeira Aula
         - Imagem do cursor deve ter o nome de Cursor.jpeg
 
 Segunda Aula 
-    - Definindo tamanho de tela.
+    - Definindo tamanho de tela ao precionar a letra f.
 
-    
+Terceira Aula
+    - Definindo tamanho da tela quando clicar no icone de maximizar. 
