@@ -11,3 +11,8 @@ Primeira Aula
         - Imagem de fundo deve ter o nome de Bake.jpeg
 
         - Imagem do cursor deve ter o nome de Cursor.jpeg
+
+Segunda Aula 
+    - Definindo tamanho de tela.
+
+    
