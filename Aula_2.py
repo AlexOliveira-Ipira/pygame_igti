@@ -25,6 +25,3 @@ while True:
                 screen = pygame.display.set_mode((640, 480), 0 , 32)
     screen.blit(backgroud, (0,0))
     pygame.display.update()
-    
-        
-        
